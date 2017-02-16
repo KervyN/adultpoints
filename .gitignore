@@ -19,10 +19,7 @@
 
 # Ignore Byebug command history file.
 .byebug_history
-<<<<<<< HEAD
-=======
 
 # Ignore some configs
 /config/database.yml
 /config/secrets.yml
->>>>>>> 12525add780409cf0ff167d026540f9a97fcd898
