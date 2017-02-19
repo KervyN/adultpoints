@@ -1,0 +1,8 @@
+<h1>Earnings</h1>
+<% @earnings.each do |earning| %>
+  <div>
+    <p><%= earning.poster %></p>
+    <p><%= earning.work %></p>
+    <p><%= earning.created_at %></p>
+  </div>
+<% end %>
